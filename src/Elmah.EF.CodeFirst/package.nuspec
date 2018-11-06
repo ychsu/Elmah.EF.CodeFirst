@@ -4,7 +4,7 @@
     <!--*-->
     <id>Elmah.EF.CodeFirst</id>
     <!--*-->
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Elmah.EF.CodeFirst</title>
     <!--*-->
     <authors>YC</authors>
@@ -18,7 +18,7 @@
     <!--*-->
     <description>使用entity framework code first 紀錄elmah</description>
     <!--*-->
-    <releaseNotes>初版</releaseNotes>
+    <releaseNotes>移除 EntityFramework.zh-hant的依賴</releaseNotes>
     <copyright>Copyright ©  2018</copyright>
     <tags>
     </tags>
