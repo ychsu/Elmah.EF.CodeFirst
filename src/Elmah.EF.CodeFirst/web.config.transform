@@ -1,0 +1,5 @@
+﻿<configuration>
+  <elmah>
+    <errorLog type="Elmah.EF.CodeFirst.EFErrorLog, Elmah.EF.CodeFirst" connectionStringOrName="name=ElmahDbContext" applicationName="DemoApp" />
+  </elmah>
+</configuration>

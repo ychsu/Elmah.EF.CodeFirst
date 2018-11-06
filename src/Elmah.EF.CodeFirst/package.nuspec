@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>Elmah.EF.CodeFirst</id>
+    <!--*-->
+    <version>1.0.0</version>
+    <title>Elmah.EF.CodeFirst</title>
+    <!--*-->
+    <authors>YC</authors>
+    <owners>YC</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>使用entity framework code first 紀錄elmah</description>
+    <!--*-->
+    <releaseNotes>初版</releaseNotes>
+    <copyright>Copyright ©  2018</copyright>
+    <tags>
+    </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>

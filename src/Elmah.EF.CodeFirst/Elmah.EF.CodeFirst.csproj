@@ -79,7 +79,9 @@
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
+    <None Include="package.nuspec" />
     <None Include="packages.config" />
+    <None Include="web.config.transform" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201601290414201_InitCreate.resx">
